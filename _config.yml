@@ -83,11 +83,11 @@ author:
   name             : "Ramiro Camino, Ph.D."
   avatar           : "profile.png"
   bio              : ""
-  location         : "Luxembourg"
-  employer         : "LIST"
+  location         : "Berlin"
+  employer         : "Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.lu/citations?user=2sMoT3YAAAAJ"
-  email            : "ramiro.camino@list.lu"
+  email            : "ramirocamino@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ramiro-Camino"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Luxembourg # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
